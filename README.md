@@ -1,1 +1,1 @@
-Hi! 👋 I am Ayaan Ali
+Hi! 👋 I am Ayaan Ali a student with expertise in internet technologies such as CSS, HTML, and JavaScript, as well as programming languages like C. I am pursuing a Bachelor of Technology degree in Electronics and Communication Engineering from Netaji Subhas University of Technology. With a strong educational background and a passion for programming, I am seeking opportunities to apply and further develop skills in web development and programming.
