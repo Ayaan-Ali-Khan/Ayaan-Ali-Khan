@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayaan Ali🐳🌟</h1>
 <h3 align="center">A passionate Machine Learning Developer.</h3> <br>
 
-- 🌱 I’m currently doing **Machine Learning Specialization by Andrew Ng**
+- 🌱 I’m currently reading **Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow**
 - 👯 I’m looking to collaborate on **ML Projects**
 - 📫 How to reach me **aliayaan201004@gmail.com**
 - 📄 Know about my experiences in my <a href="https://drive.google.com/file/d/1S3lJ8yQMge9n7RnZCdOCkCSa0ayEfG2m/view?usp=sharing">resume</a>
