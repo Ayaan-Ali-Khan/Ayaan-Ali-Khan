@@ -4,7 +4,7 @@
 - 🌱 I’m currently doing **Deep Learning Speciaization** by Andrew Ng and reading **Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow** by Aurélien Geron
 - ⚒ I’m beginning to work on **Machine Learning Projects**
 - 📫 How to reach me **aliayaan201004@gmail.com**
-- 📄 Know about my experiences in my <a href="https://drive.google.com/file/d/1fmymAn6IQhz7Veh1vrUz-zoq-o72dViD/view?usp=sharing">resume</a>
+- 📄 Know about my experiences in my <a href="https://drive.google.com/file/d/15t0Rn5a9Vjtr81ak6nvOkKSdygMbYWcK/view?usp=sharing">resume</a>
 <br><br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
