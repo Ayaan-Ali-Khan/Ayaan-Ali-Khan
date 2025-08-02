@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Ayaan Ali🐳🌟</h1>
-<h3 align="center">A passionate Machine Learning Developer.</h3> <br>
+<h1 align="center">Ayaan Ali Khan</h1>
+<h3 align="center">A passionate Machine Learning Student</h3> <br>
 
-- 🌱 I’m currently doing **Deep Learning Speciaization** by Andrew Ng and reading **Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow** by Aurélien Geron
-- ⚒ I’m beginning to work on **Machine Learning Projects**
-- 📫 How to reach me **aliayaan201004@gmail.com**
+- 🌱 I’m currently enrolled in **Deep Learning Speciaization** by Andrew Ng and reading **Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow** by Aurélien Geron
+- ⚒ I’m working on **Machine Learning Projects**
+- 📫 How to reach me: **aliayaan201004@gmail.com**
 - 📄 Know about my experiences in my <a href="https://drive.google.com/file/d/15t0Rn5a9Vjtr81ak6nvOkKSdygMbYWcK/view?usp=sharing">resume</a>
 <br><br>
 <h3 align="left">Connect with me:</h3>
@@ -28,11 +28,3 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a></p><br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ayaan-Ali-Khan&show_icons=true&locale=en&layout=compact&theme=dark" alt="Ayaan-Ali-Khan" /></p>
-<br><br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ayaan-Ali-Khan&show_icons=true&locale=en&theme=dark" alt="Ayaan-Ali-Khan"/></p><br><br>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ayaan-Ali-Khan&theme=dark" alt="Ayaan-Ali-Khan" /></p><br><br>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ayaan-Ali-Khan" alt="Ayaan-Ali-Khan" /></a> </p><br><br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ayaan-Ali-Khan&label=Profile%20views&color=0e75b6&style=flat" alt="Ayaan-Ali-Khan" /> </p>
-<p align="center">
