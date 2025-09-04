@@ -1,10 +1,10 @@
-<h1 align="center">Ayaan Ali Khan</h1>
-<h3 align="center">A passionate Machine Learning Student</h3> <br>
+<h1 align="center">Hello👋 I'm Ayaan Ali Khan</h1>
+<h3 align="center">A passionate Data Scientist</h3> <br>
 
 - 🌱 I’m currently enrolled in **Deep Learning Speciaization** by Andrew Ng and reading **Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow** by Aurélien Geron
 - ⚒ I’m working on **Machine Learning Projects**
 - 📫 How to reach me: **aliayaan201004@gmail.com**
-- 📄 Know about my experiences in my <a href="https://drive.google.com/file/d/15t0Rn5a9Vjtr81ak6nvOkKSdygMbYWcK/view?usp=sharing">resume</a>
+- 📄 Know about my projects in my <a href="https://drive.google.com/file/d/10cSTGZ95DcwnmB40JExGrYxFNq-D4_up/view?usp=sharing">resume</a>
 <br><br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
