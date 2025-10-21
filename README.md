@@ -1,7 +1,7 @@
 <h1 align="center">Hello👋 I'm Ayaan Ali Khan</h1>
 <h3 align="center">A passionate Data Scientist</h3> <br>
 
-- 🌱 I’m currently reading **Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow** by Aurélien Geron to study about Classical Machine Learning Algorithms.
+- 🌱 I’m currently reading **Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow** by Aurélien Geron.
 - ⚒ I’m working on **Machine Learning Projects**
 - 📫 How to reach me: **aliayaan201004@gmail.com**
 - 📄 Know about my projects in my <a href="https://drive.google.com/file/d/10cSTGZ95DcwnmB40JExGrYxFNq-D4_up/view?usp=sharing">resume</a>
